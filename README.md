@@ -1,1 +1,1 @@
-# Guassian-Process-Regression
+# Gaussian-Process-Regression
